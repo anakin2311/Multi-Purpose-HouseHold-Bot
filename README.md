@@ -37,7 +37,7 @@
     <li>
       <a href="#features">Features</a>
       <ul>
-        <li><a href="#face-detection">Face Detection</a></li>
+        <li><a href="#face-recognition">Face Recognition</a></li>
         <li><a href="#baby-threat-detection">Baby Threat Detection</a></li>
         <li><a href="#baby-following">Baby Following</a></li></li>
     </ul>
